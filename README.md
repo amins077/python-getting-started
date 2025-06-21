@@ -1,7 +1,6 @@
-Forked Repo Test by amins077
+Modified Forked Repo Test for Render by amins077
 
 Originally a Django project deployed for Heroku. Modified to support deployment on Render, including fixes for static file handling and specific platform configuration.
-
 # Python Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
